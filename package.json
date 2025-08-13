@@ -2,7 +2,7 @@
   "name": "silo-icon-theme",
   "displayName": "SILO Icon Theme",
   "description": "An file icon theme, based on Catppuccin Icons, with tiny adjustments to fit SILO color theme.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "mp76",
   "repository": {
     "type": "git",
