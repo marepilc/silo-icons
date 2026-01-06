@@ -28,6 +28,7 @@
     "csv": "csv",
     "tsv": "csv",
     "psv": "csv",
+    "parquet": "parquet",
     "cucumber": "cucumber",
     "cuda-cpp": "cuda",
     "cue": "cue",
@@ -285,6 +286,7 @@
     "psql": "database",
     "db": "zip",
     "db3": "database",
+    "parquet": "parquet",
     "dat": "database",
     "dhall": "dhall",
     "dhallb": "dhall",
@@ -4216,6 +4218,9 @@
     },
     "package-json": {
       "iconPath": "./icons/package-json.svg"
+    },
+    "parquet": {
+      "iconPath": "./icons/parquet.svg"
     },
     "panda-css": {
       "iconPath": "./icons/panda-css.svg"
